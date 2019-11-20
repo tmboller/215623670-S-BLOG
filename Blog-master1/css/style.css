@@ -1,0 +1,39 @@
+.jumbotron-fluid
+{
+	background-color: grey;
+}
+
+.jumbotron-fluid h1 
+{
+	text-align: center;
+	color: white;
+}
+
+.jumbotron-fluid p
+{
+	text-align: center;
+	color: white;
+}
+
+.jumbotron-fluid div
+{
+	text-align: center;
+}
+
+h1
+{
+	font-style: italic;
+}
+
+p
+{
+	font-size: 24px;
+
+}
+
+h4
+{
+	text-align: center;
+	color: black;
+}
+
